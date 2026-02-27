@@ -319,10 +319,6 @@ For issues, questions, or suggestions, please:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Authors
-
-Your name - Project Creator
-
 ## Acknowledgments
 
 - Thanks to the Django community for the excellent framework
